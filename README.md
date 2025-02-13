@@ -47,10 +47,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
 
 ## 🌟 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Arlindo](https://github-readme-stats.vercel.app/api?username=Arlindo21&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arlindo21&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![Estatísticas do GitHub de Arlindo](https://github-readme-stats.vercel.app/api?username=Arlindo21&show_icons=true&theme=radical)
 
 
 ## 💌 Conecte-se comigo

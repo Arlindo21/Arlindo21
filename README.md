@@ -6,7 +6,8 @@ Bem-vindo ao meu perfil no GitHub!
 
 📚 Técnico em Informática e Gestão de Empresas.
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Digital UniAmeca.
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Digital UniAmeca Trancada no 2 semestre.
+🎓 Cursando Gestão Financeira na Universidade São Francisco campinas.
 
 💻 Apaixonado por tecnologia e desenvolvimento de software.
 
@@ -26,8 +27,15 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
  
-📚 Bibliotecas e Frameworks
+📚 Bibliotecas e Frameworks <br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=whit0e)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+
 
 📂 Banco de Dados<br>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,7 +59,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho ou estou
 ![Estatísticas do GitHub de Arlindo](https://github-readme-stats.vercel.app/api?username=Arlindo21&show_icons=true&theme=radical)
 
 
-## 💌 Conecte-se comigo
+##  Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo-dos-santos-lima-a4a642323/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/arlindolima307)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Arlindolima307@gmail.com)
